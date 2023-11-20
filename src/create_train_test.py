@@ -51,23 +51,3 @@ for wc in weather_classes:
         shutil.move(source_path, target_path)
     
 print("Data split into train and test sets.")
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
